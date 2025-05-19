@@ -4,6 +4,7 @@
 library(tidyverse)
 
 # Load csv file
+# Data retrieved from: (https://www.stats.govt.nz/topics/agriculture/)
 df_data <- read.csv("agriculture.csv")
 
 # Parse data
